@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Xml_Root_Class xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Stages>
+    <Stage Number="1" ProgrameName="BSc (Hons) Computer Science">
+      <Modules>
+        <Module Code="SOFT 144" Name="Software engineering" Credits="20" Term="AY" OverallModuleMark="0">
+          <Assessment>
+            <Exam Mark="0" Weighting="0" />
+            <Coursework Mark="0" Weighting="1">
+              <Components>
+                <Component Mark="8" Weighting="0.7" Type="in-class test" Name="Component 1" />
+                <Component Mark="93" Weighting="0.3" Type="software development" Name="Component 2" />
+              </Components>
+            </Coursework>
+          </Assessment>
+        </Module>
+        <Module Code="ISAD 131" Name="Database Developmant" Credits="20" Term="AY" OverallModuleMark="0">
+          <Assessment>
+            <Exam Mark="80" Weighting="0.4" />
+            <Coursework Mark="0" Weighting="0.6">
+              <Components>
+                <Component Mark="40" Weighting="1.0" Type="in-class test" Name="Test 1" />
+              </Components>
+            </Coursework>
+          </Assessment>
+        </Module>
+        <Module Code="CNET111" Name="Computer Systems" Credits="20" Term="AY" OverallModuleMark="0">
+          <Assessment>
+            <Exam Mark="80" Weighting="0.6" />
+            <Coursework Mark="0" Weighting="0.4">
+              <Components>
+                <Component Mark="50" Weighting="0.9" Type="software development" Name="Assembly language exercices" />
+                <Component Mark="60" Weighting="0.1" Type="in-class test" Name="Part 1 Operating systems" />
+              </Components>
+            </Coursework>
+          </Assessment>
+        </Module>
+        <Module Code="AINT101" Name="Computer Science Workshop" Credits="20" Term="AY" OverallModuleMark="0">
+          <Assessment>
+            <Exam Mark="0" Weighting="0" />
+            <Coursework Mark="0" Weighting="1">
+              <Components>
+                <Component Mark="100" Weighting="0.6" Type="essay" Name="Assignment 1" />
+                <Component Mark="50" Weighting="0.1" Type="essay" Name="Assignment 2" />
+                <Component Mark="0" Weighting="0.1" Type="essay" Name="Assignment 3" />
+                <Component Mark="0" Weighting="0.2" Type="essay" Name="Assignment 4" />
+              </Components>
+            </Coursework>
+          </Assessment>
+        </Module>
+        <Module Code="ISAD140" Name="Software Development" Credits="20" Term="AY" OverallModuleMark="0">
+          <Assessment>
+            <Exam Mark="90" Weighting="0.5" />
+            <Coursework Mark="0" Weighting="0.5">
+              <Components>
+                <Component Mark="80" Weighting="0.2" Type="in-class test" Name="In class exercices" />
+                <Component Mark="100" Weighting="0.8" Type="in-class test" Name="Test" />
+              </Components>
+            </Coursework>
+          </Assessment>
+        </Module>
+        <Module Code="CNET115" Name="Introduction to Computer &amp; Information Security" Credits="20" Term="T1" OverallModuleMark="0">
+          <Assessment>
+            <Exam Mark="0" Weighting="0" />
+            <Coursework Mark="0" Weighting="1">
+              <Components>
+                <Component Mark="65.00" Weighting="0.6" Type="essay" Name="Assignment 1" />
+                <Component Mark="80" Weighting="0.4" Type="in-class test" Name="Test" />
+              </Components>
+            </Coursework>
+          </Assessment>
+        </Module>
+        <Module Code="SOFT140" Name="Principles of Programming Structures &amp; Algorithms" Credits="10" Term="T2" OverallModuleMark="0">
+          <Assessment>
+            <Exam Mark="99" Weighting="0.4" />
+            <Coursework Mark="0" Weighting="0.6">
+              <Components>
+                <Component Mark="0" Weighting="0.5" Type="exercise" Name="Coursework 1" />
+                <Component Mark="0" Weighting="0.5" Type="essay" Name="Assignment 2" />
+              </Components>
+            </Coursework>
+          </Assessment>
+        </Module>
+      </Modules>
+    </Stage>
+    <Stage Number="2" ProgrameName="Computing ">
+      <Modules>
+        <Module Code="SOFT 230" Name="Software Programming" Credits="20" Term="AY" OverallModuleMark="0">
+          <Assessment>
+            <Exam Mark="79" Weighting="0.3" />
+            <Coursework Mark="0" Weighting="0.7">
+              <Components>
+                <Component Mark="0" Weighting="0.9" Type="exercise" Name="Exercices" />
+                <Component Mark="78" Weighting="0.1" Type="in-class test" Name="Test" />
+              </Components>
+            </Coursework>
+          </Assessment>
+        </Module>
+        <Module Code="ISAD131" Name="Database Development 2 " Credits="0" Term="AY" OverallModuleMark="0" />
+      </Modules>
+    </Stage>
+    <Stage Number="3" ProgrameName="Somputing stage 3" />
+  </Stages>
+</Xml_Root_Class>

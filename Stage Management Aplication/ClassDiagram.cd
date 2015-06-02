@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Stage_Management_Aplication.AddRecords">
+    <Position X="6.25" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>IIgGIkQBACQwIAQEIgHAS4AGACJQAhQAAM2ElXhDACA=</HashCode>
+      <FileName>AddRecords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_Management_Aplication.AplicationSettings">
+    <Position X="0.75" Y="23" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AplicationSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_Management_Aplication.Summative_Assessment">
+    <Position X="10.25" Y="17.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Summative_Assessment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_Management_Aplication.Coursework">
+    <Position X="14" Y="21.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Coursework.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_Management_Aplication.Component">
+    <Position X="17.25" Y="21.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAQAAAABAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_Management_Aplication.CwComponentsUserControl">
+    <Position X="9.25" Y="25.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AQEACAAAACQAAAAAAACAAAACAgKAAIAAAACAAAAAAAA=</HashCode>
+      <FileName>CwComponentsUserControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_Management_Aplication.Exam">
+    <Position X="11.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_Management_Aplication.Module">
+    <Position X="7" Y="17.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAgAAAAAAAAAAAAgAAQAAAAQAAAgEAEAAIABAAA=</HashCode>
+      <FileName>Module.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_Management_Aplication.ModuleUserControl">
+    <Position X="4.75" Y="25.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>kCgBIQAAsCAAARAAIICAggADQBpABAAIKIAAABoBCCA=</HashCode>
+      <FileName>ModuleUserControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_Management_Aplication.Parse_Xml_Records">
+    <Position X="3.5" Y="21" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAgAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Parse_Xml_Records.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_Management_Aplication.Program">
+    <Position X="0.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_Management_Aplication.Stage">
+    <Position X="3.5" Y="17.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAQAAAAFAAAAAQAAACAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_Management_Aplication.StageManagementForm">
+    <Position X="0.5" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>DAABMOEgBCAAATFAAECBZAJCAEL3CZIAAEAECQGAISo=</HashCode>
+      <FileName>StageManagementForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_Management_Aplication.StageUserControl">
+    <Position X="0.5" Y="25.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAKAQBCQAAAAAAgLAQACCIAAAAAAAAAAAAQABACA=</HashCode>
+      <FileName>StageUserControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_Management_Aplication.Xml_Root_Class">
+    <Position X="0.5" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Xml_Root_Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Configuration.ApplicationSettingsBase" Collapsed="true">
+    <Position X="0.75" Y="21" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Stage_Management_Aplication.Assessment">
+    <Position X="14.25" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAACAAAAAgAA=</HashCode>
+      <FileName>Assessment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
